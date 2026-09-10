@@ -92,7 +92,7 @@ export default function Contact() {
               </svg>
             </a>
             <a
-              href="https://github.com/prathapece1234"
+              href="https://github.com/prathapece1234/"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link"
