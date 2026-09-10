@@ -79,7 +79,7 @@ export default function Contact() {
 
           <div className="contact-socials">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/prathap-sekar-957b73204"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link"
@@ -92,7 +92,7 @@ export default function Contact() {
               </svg>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/prathapece1234"
               target="_blank"
               rel="noopener noreferrer"
               className="social-link"
