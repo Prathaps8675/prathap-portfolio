@@ -48,7 +48,7 @@ export default function Navbar() {
             ))}
             <li>
               <a
-                href="/resume.pdf"
+                href="resume.pdf"
                 className="nav-cta"
                 id="nav-resume"
                 target="_blank"
