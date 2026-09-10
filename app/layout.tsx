@@ -29,6 +29,10 @@ export const metadata: Metadata = {
     "Tiruvannamalai",
   ],
   authors: [{ name: "Prathap S" }],
+  icons: {
+    icon: "/prathap-portfolio/favicon.jpg",
+    apple: "/prathap-portfolio/favicon.jpg",
+  },
   openGraph: {
     title: "Prathap S | Cloud & DevOps Engineer — AWS & GCP",
     description:
