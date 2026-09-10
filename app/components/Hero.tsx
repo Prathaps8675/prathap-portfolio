@@ -101,12 +101,10 @@ export default function Hero() {
 
             <div className="hero-avatar-ring">
               <div className="hero-avatar-inner">
-                <Image
-                  src="/prathap.jpg"
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src="prathap.jpg"
                   alt="Prathap S - Cloud & DevOps Engineer"
-                  width={380}
-                  height={380}
-                  priority
                   style={{ objectFit: "cover", width: "100%", height: "100%" }}
                 />
               </div>
